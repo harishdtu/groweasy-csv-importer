@@ -27,6 +27,12 @@ const SAMPLE_FILES: SampleFile[] = [
     label: 'Messy manual sheet',
     description: 'Vague headers, blank rows that should be skipped',
     path: '/sample-data/messy-manual-sheet.csv'
+  },
+  {
+    name: 'large-test-300rows.csv',
+    label: 'Large test file',
+    description: '300 rows of messy data for testing',
+    path: '/sample-data/large-test-300rows.csv'
   }
 ];
 
