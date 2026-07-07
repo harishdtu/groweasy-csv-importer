@@ -1,6 +1,4 @@
-# GrowEasy CSV Importer
 
-An AI-powered CSV importer that accepts leads exported from **any** source — Facebook Lead Ads, Google Ads, Excel sheets, real-estate CRM exports, sales reports, or manually created spreadsheets — and intelligently maps them into GrowEasy's fixed CRM schema, regardless of column names or layout.
 # GrowEasy CSV Importer
 
 An AI-powered CSV importer that accepts leads exported from **any** source — Facebook Lead Ads, Google Ads, Excel sheets, real-estate CRM exports, sales reports, or manually created spreadsheets — and intelligently maps them into GrowEasy's fixed CRM schema, regardless of column names or layout.
